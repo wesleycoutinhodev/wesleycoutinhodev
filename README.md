@@ -15,7 +15,7 @@
 ---
 
 ### 🌱 Sobre mim
-Sou apaixonado por tecnologia e busco minha primeira oportunidade para evoluir como desenvolvedor, aprendendo na prática e contribuindo em projetos de impacto. Valorizo trabalho em equipe, adaptabilidade e evolução constante.  
+Apaixonado por tecnologia e busco oportunidade para evoluir como desenvolvedor, aprendendo na prática e contribuindo em projetos de impacto. Valorizo trabalho em equipe, adaptabilidade e evolução constante.  
 
 ---
 
