@@ -46,5 +46,6 @@ engineering decisions and architecture case studies on my portfolio.
 
 → Portfolio: https://wesleycoutinhodev.me  
 → LinkedIn: https://www.linkedin.com/in/wesleycoutinhodev
+→ Email: hello@wesleycoutinhodev.me
 
 🌎 Open to remote Backend Software Engineering opportunities.
