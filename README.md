@@ -39,11 +39,6 @@ YOLO · OCR · LLMs · RAG · OpenAI API
 Backend Engineering · Distributed Systems · Reliability ·
 Cloud Infrastructure · Applied AI
 
-## Selected work
-
-My current professional work is private, but I document selected
-engineering decisions and architecture case studies on my portfolio.
-
 → Portfolio: https://wesleycoutinhodev.me  
 → LinkedIn: https://www.linkedin.com/in/wesleycoutinhodev
 → Email: hello@wesleycoutinhodev.me
